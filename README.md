@@ -109,4 +109,7 @@ Gradio Documentation: https://gradio.app
 
 
 
+👤 Author
+👨‍💻 Rohit Kolage
+📧 Email: rohitkolage091@gmail.com 🔗 LinkedIn
 
