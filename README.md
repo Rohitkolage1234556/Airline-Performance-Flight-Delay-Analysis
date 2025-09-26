@@ -32,40 +32,55 @@ This project analyzes airline operations and predicts flight delays using histor
 
 
 airline-delay-prediction/
+
 │
 ├── app.py # Gradio web app for real-time prediction
+
 ├── flight_delay.csv # Dataset (or sample dataset)
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md # Project documentation
+
 ├── powerbi_dashboard/ # Optional: Power BI files (.pbix, screenshots)
+
 └── screenshots/ # Optional: Images of dashboard and app
 
 
 ---
-📌 Dataset Description
+## 📌 Dataset Description
+
 Column	Description
+
 year	Year of the flight record
+
 month	Month of the flight record
+
 carrier_name	Airline name
+
 airport_name	Airport name
+
 arr_flights	Number of arriving flights
+
 arr_del15	Flights delayed ≥15 minutes
+
 arr_delay	Total arrival delay (minutes)
+
 arr_cancelled	Number of cancelled flights
+
 arr_diverted	Number of diverted flights
+
 carrier_delay	Delay due to carrier
+
 weather_delay	Delay due to weather
+
 nas_delay	Delay due to NAS
+
 security_delay	Delay due to security
+
 late_aircraft_delay	Delay due to late aircraft arrival
 
-📈 Screenshots
 
-Optional folder screenshots/ can include:
-
-Gradio web app interface
-
-Power BI dashboard visuals
 
 
 ## 🔧 Technologies Used
@@ -84,9 +99,6 @@ Kaggle Flight Delay Dataset: Link
 Python & Scikit-learn Documentation: https://scikit-learn.org
 
 Gradio Documentation: https://gradio.app
-
-
-
 
 
 ## 👤 Author
