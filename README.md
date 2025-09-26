@@ -1,4 +1,4 @@
-# Airline Performance & Flight Delay Prediction Dashboard
+# ✈️ Airline Performance & Flight Delay Prediction Dashboard
 
 ## 🚀 Project Overview
 This project analyzes airline operations and predicts flight delays using historical flight data. It combines **data analysis, machine learning, and visualization** to provide actionable insights for airlines, airports, and passengers. Users can explore **flight performance KPIs** and predict **flight delays** with expected minutes using an interactive web app.
