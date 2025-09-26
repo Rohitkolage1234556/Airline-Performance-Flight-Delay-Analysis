@@ -67,7 +67,8 @@ Gradio web app interface
 
 Power BI dashboard visuals
 
-🔧 Technologies Used
+
+## 🔧 Technologies Used
 
 Python: Pandas, NumPy, scikit-learn, Gradio
 
@@ -75,7 +76,8 @@ Machine Learning: Random Forest Classifier & Regressor
 
 Visualization: Power BI (KPIs, charts, maps)
 
-📄 References
+
+## 📄 References
 
 Kaggle Flight Delay Dataset: Link
 
@@ -89,6 +91,8 @@ Gradio Documentation: https://gradio.app
 
 ## 👤 Author
 👨‍💻 Rohit Kolage
+
 📧 Email: rohitkolage091@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/rohitkolage/
 
