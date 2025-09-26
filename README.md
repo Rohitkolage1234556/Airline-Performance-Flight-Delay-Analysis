@@ -87,9 +87,8 @@ Gradio Documentation: https://gradio.app
 
 
 
-👤 Author
-
+## 👤 Author
 👨‍💻 Rohit Kolage
-
-📧 Email: rohitkolage091@gmail.com 🔗 LinkedIn
+📧 Email: rohitkolage091@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/rohitkolage/
 
