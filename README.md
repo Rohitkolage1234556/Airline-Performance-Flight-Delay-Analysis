@@ -42,30 +42,6 @@ airline-delay-prediction/
 
 
 ---
-
-## ⚙️ How to Run the Project
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/airline-delay-prediction.git
-cd airline-delay-prediction
-
-2. Install dependencies
-pip install -r requirements.txt
-
-3.Run the Gradio App
-python app.py
-
-
-
-
-4. Explore Power BI Dashboard
-
-Open powerbi_dashboard/Flight_Delay_Report.pbix to visualize KPIs and trends.
-
-Use slicers for Year, Month, Carrier, Airport to filter the data interactively.
-
-
 📌 Dataset Description
 Column	Description
 year	Year of the flight record
